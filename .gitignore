@@ -4,3 +4,6 @@ helmfile
 helmfile.lock
 test/integration/tmp
 vendor/
+
+# My
+.vscode/
